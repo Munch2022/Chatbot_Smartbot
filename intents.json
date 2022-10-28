@@ -1,0 +1,72 @@
+{"intents": [
+    {"tag": "greetings",
+     "patterns": ["hello", "hi", "hey", "what's up?", "how is it going"],
+     "responses": ["Hello!", "Hi", "How can I help you today?", "Hey! how are you doing?"]
+    },
+
+    {"tag": "goodbye",
+     "patterns": ["bye", "will catch you later", "see you later", "have a good day", "Im leaving", "see ya"],
+     "responses": ["Sure", "Goodbye!", "see you again", "talk to you later", "Have a nice day ahead!"]
+    },
+
+    {"tag": "name",
+     "patterns": ["what is your name?", "Who are you", "what should I call you?", "may I know your name?", "whom Im I talking to?"],
+     "responses": ["My name is SmartBot", "I'm SmartBot the assistant of Manjula!"]
+    },
+
+    {"tag": "hours",
+     "patterns": ["what time are you free?", "when can I talk to you?"],
+     "responses": ["Whenever you want me to", "Anytime"]
+    },
+    
+    {"tag": "age", 
+     "patterns": ["how old are you?", "what is your age", "age?", "how old?"],
+     "responses": ["few days old!", "I was created fews ago by Manjula", "I'm too young"]
+    },
+    
+    {"tag": "why",
+     "patterns": ["how are you smart?", "why are you smart?", "how can you say you are smart?"],
+     "responses": ["Because I answer your questions", "Because I understand you", "Because I can communicate with you", "Because I can talk to you beside not being human"]
+    },
+    
+    {"tag": "Manjula",
+     "patterns": ["Who is Manjula", "who is she?", "what do you know about Manjula", "how you know Manjula", "Who is your creator", "Who created you?"],
+     "responses": ["Manjula is a techie and she is the one created me", "Manjula is my owner, my creator", "Manjula is from Bengaluru, my creator"]
+    },
+    
+    {"tag": "Skills", 
+     "patterns": ["What are her skills", "what skillset does she hold?"],
+     "responses": ["Manjula's skills are SQL, Excel, Manual Software testing(all concepts),Agile, Python, ML, DL, AI, NLP, computer vision, etc.."]
+    },
+
+    {"tag": "Experience", 
+     "patterns": ["What is Manjula's past experience?", "what is her total experience?"],
+     "responses": ["In the past Manjula worked as a QA engineer", "5yrs in the past"]
+    },
+
+    {"tag": "birthday", 
+     "patterns": ["When is Manjula's birthday?", "what is her date of birth?", "How old is Manjula?"],
+     "responses": ["Her birthday is on 17th June, she's is a Gemeni"]
+    },
+
+    {"tag": "hobbies", 
+     "patterns": ["What are her hobbies?", "what does she do in her free time?", "What does she like to do?"],
+     "responses": ["She loves to sketch", "She likes dancing, singing and listening to music", "She like scuba diving and wishes to go for it whenever she gets oppertunity"]
+    },
+
+    {"tag": "qualification", 
+     "patterns": ["What is Manjula's qualification", "what has she studied?", "Where did she graduate from?"],
+     "responses": ["She is done her bachelors in Computer Science in Mahatma Gandhi Memorial College, Udupi"]
+    },
+
+    {"tag": "status", 
+     "patterns": ["What is Manjula's marital status?", "Is she married?", "Is she single?"],
+     "responses": ["She is married"]
+    },
+
+    {"tag": "drinks", 
+     "patterns": ["What drinks do you like", "What drink does your owner prefer?", "What beverages would you like to have"],
+     "responses": ["Just Coffee"]
+    }
+
+]}
