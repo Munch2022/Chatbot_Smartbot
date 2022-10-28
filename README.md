@@ -13,3 +13,7 @@ This repo consists all related files to build an interactive GUI application cha
 
 😎 I have trained this bot with my own details/basic information and the bot itself; named him SmartBot. So anybody can know about me chatting with my bot
 Eg: greetings(hi, hello, whats up), who are you, what is your name, why do you call yourself smart?, who is Manjula, what are her skills, when is her birthday, what are her hobbies, what is her marital status?/ is she married, etc.. 
+
+
+![image](https://user-images.githubusercontent.com/111883941/198569348-6bd83f78-988b-468d-96a1-32a67f24208e.png)
+
