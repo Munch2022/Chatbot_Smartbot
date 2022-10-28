@@ -14,9 +14,7 @@ This repo consists all related files to build an interactive GUI application cha
 😎 I have trained this bot with my own details/basic information and the bot itself; named him SmartBot. So anybody can know about me chatting with my bot
 Eg: greetings(hi, hello, whats up), who are you, what is your name, why do you call yourself smart?, who is Manjula, what are her skills, when is her birthday, what are her hobbies, what is her marital status?/ is she married, what is her past experience, who created you?, etc.. 
 
-![image](https://user-images.githubusercontent.com/111883941/198572801-02f0b6f1-5e1a-45b4-a9cb-5a4aacf19193.png)
-
-
+![resized_bot1](https://user-images.githubusercontent.com/111883941/198621847-302bd5ca-f102-4cc1-9f83-ac09943150c7.png)
 ### Description of files: 
 
 •	intents.json file consists of intents with patters, responses and tag
@@ -51,6 +49,6 @@ Step 5. Run chatbot.py file
 Step 6. at the end run app.py file 
 
 Above step will open the chat window where you can start the conversation and test.
-![image](https://user-images.githubusercontent.com/111883941/198616403-955bcbdc-0ea8-469e-8e1a-804a8c6a2904.png)
+
 # Customize
 Have a look at intents.json. You can customize it according to your own use case as said before. Just define a new tag, possible patterns, and possible responses for the chat bot. Just make sure that you have to re-run the training.py file whenever this file is modified.
