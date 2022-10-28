@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 28 15:46:21 2022
+
+@author: Manjula
+"""
+
+nltk
