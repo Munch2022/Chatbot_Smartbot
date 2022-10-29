@@ -34,21 +34,3 @@ Eg: greetings(hi, hello, whats up), who are you, what is your name, why do you c
 ### Output of how the bot works: 
 ![image](https://user-images.githubusercontent.com/111883941/198577838-9c23e14d-99ee-48e7-abc6-519cbfc154bd.png)
 
-# Follow below steps to run this project 
-
-Step 1. Fork the repository 
-
-Step 2. Pre-requisites: Make sure all required python pakages are installed in the environment you are working on
-
-Step 3. Once you download the files open any python IDE you want to work with and open the project folder
-
-Step 4. First run/execute the training.py file
-
-Step 5. Run chatbot.py file
-
-Step 6. at the end run app.py file 
-
-Above step will open the chat window where you can start the conversation and test.
-
-# Customize
-Have a look at intents.json. You can customize it according to your own use case as said before. Just define a new tag, possible patterns, and possible responses for the chat bot. Just make sure that you have to re-run the training.py file whenever this file is modified.
