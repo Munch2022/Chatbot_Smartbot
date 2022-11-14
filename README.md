@@ -31,6 +31,6 @@ Eg: greetings(hi, hello, whats up), who are you, what is your name, why do you c
 
 •	app.py makes call to chatbot.py to reply back to user with relavant answers
 
-### Output of how the bot works: 
+### GUI of bot: 
 ![image](https://user-images.githubusercontent.com/111883941/198577838-9c23e14d-99ee-48e7-abc6-519cbfc154bd.png)
 
